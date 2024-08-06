@@ -16,7 +16,7 @@ We retrieved one year of historical stock data from Yahoo Finance, covering the 
 ## Repository Contents
 - **Code/**: Jupyter notebooks documenting each step of the analysis, including data retrieval, percentage change calculation, moving averages, correlation analysis, and Monte Carlo simulations.
 - **Code/**: Python scripts used for data processing and analysis.
-- **Plots**: This file, providing an overview of all the plots we did.
+- **Plots/**: This file, providing an overview of all the plots we did.
 
 ## Conclusion
 This project provides a comprehensive analysis of stock price trends and predictions for four major companies. By examining percentage changes, moving averages, and leveraging Monte Carlo simulations, we gain insights into historical performance and future price potential.
